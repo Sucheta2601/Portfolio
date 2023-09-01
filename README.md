@@ -31,6 +31,7 @@ It has 5 sections-
 5 Resume 
 
 ![Portfolio - Google Chrome 29-08-2023 14_08_38](https://github.com/Sucheta2601/Portfolio/assets/108974791/e59cca9b-0e93-47d2-aa1a-53e6430a5b1a)
+(Summary**)
 
 
 6 Contact
