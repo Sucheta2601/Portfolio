@@ -27,9 +27,7 @@
     el.addEventListener('scroll', listener)
   }
 
-  /**
-   * Navbar links active state on scroll
-   */
+ 
   let navbarlinks = select('#navbar .scrollto', true)
   const navbarlinksActive = () => {
     let position = window.scrollY + 200
@@ -217,9 +215,7 @@
     })
   });
 
-  /**
-   * Initiate Pure Counter 
-   */
+ 
   new PureCounter();
 
 })()
